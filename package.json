@@ -48,7 +48,7 @@
 		"@typescript/native-preview": "7.0.0-dev.20260628.1",
 		"bits-ui": "^2.18.1",
 		"clsx": "^2.1.1",
-		"fallow": "^2.102.0",
+		"fallow": "^3.34.0",
 		"isomorphic-dompurify": "^3.18.0",
 		"mdsvex": "^0.12.7",
 		"prettier-plugin-svelte": "^4.1.1",
